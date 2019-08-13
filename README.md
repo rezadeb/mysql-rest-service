@@ -15,7 +15,7 @@ Step :
 5.) Done  
 Note : If you want to separate Apps and MySQL DB with different host, you will need to edit application.properties in src/main/resources then Rebuild project using IDE  
 
-============================================================================ 
+============================================================================  
 REST API Specification :  
 header : content-type: application/json  
 POST -> http://localhost:8080/users -> Add new Users  

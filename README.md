@@ -23,6 +23,7 @@ Note : If you want to separate Apps and MySQL DB with different host, you will n
 ============================================================================  
 REST API Specification :  
 header : content-type: application/json  
+
 POST -> http://localhost:8080/users -> Add new Users  
 Body:{  
  "username": "admin",  

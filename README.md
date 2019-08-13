@@ -1,5 +1,5 @@
 # mysql-rest-service
-This App is build using SpringBoot
+This App is build using SpringBoot  
 Requirement :
 - MySQL Database version 5.x or XAMPP
 - PhpMyAdmin (Need Apache) or XAMPP or any other clients to access MySQL database

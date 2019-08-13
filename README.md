@@ -22,16 +22,16 @@ POST -> http://localhost:8080/users -> Add new Users
 Body:{  
  "username": "admin",  
  "password": "password",  
- "name": "Gobinath",  
- "email": "admin@javahelps.com"  
+ "name": "MII",  
+ "email": "admin@mii.com"  
 }  
 GET -> http://localhost:8080/users -> Get All user  
 GET -> http://localhost:8080/users/{username} -> Get specific Users with username={username}  
 PUT -> http://localhost:8080/users/admin -> Update specific Users information with username=admin  
 Body:{  
- "username": "admin",  
- "password": "admin",  
- "name": "Gobinath",  
- "email": "newemail@gmail.com"  
+ "username": "tester",  
+ "password": "test",  
+ "name": "Metro",  
+ "email": "metro@gmail.com"  
 }  
 DELETE -> http://localhost:8080/users/admin -> Delete users with username=admin  
